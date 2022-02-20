@@ -1,25 +1,21 @@
 ---
 layout: page
-title: Research
-subtitle: 'Developing advanced materials for point-of-care diagnostics for transformative healthcare technologies'
+title: BioMed 4.0 Research
+subtitle: 'Developing an agnostic to feedstock additive manufacturing unit'
 cover-img:
-  - '/img/RFRx4_1600001_edit1.jpg': "Polarised optical microscopy of liquid crystalline polypeptides"
-share-description: Learn more about the various research topics for Materials for Health in Dr Hannah Leese's lab!
+  - '/img/minku-kang-unsplash.jpg': "Photo by Minku Kang on Unsplash"
+share-description: Learn more about our vision for Manufacturing in Hospital!
 ---
 
-Our Materials for Health Lab, is developing advanced materials for transformative sustainable healthcare. 
-Specifically, to develop materials that can detect and diagnose the presence of disease at point-of-care. 
-Health and Well-being is the third goal of the [UN Sustainability Development Goals](https://sustainabledevelopment.un.org/sdg3), and our research is 
-seeking to contribute to sustaining healthcare, democratising healthcare and tackling the ever-increasing threat of antimicrobial resistance.
+# Project Overview
+
+Manufacturing in Hospital: BioMed 4.0 aims to develop a novel responsive additive technology capable of responding autonomously to feedstock and product requirements, while addressing each of the challenges present in modern 3D printing technologies. To achieve these transformative characteristics, we will integrate bio-inspired modalities (e.g. sensing, thinking and moving). We will employ novel analytical tools that enable sensing the type of material/plastic fed into the unit. This information coupled with the characteristics of the product will allow an AI-algorithm to determine the best operating conditions and operation mode. To demonstrate the transformative features of the eHD-3D unit, a range of geometrically and structurally diverse bioscaffolds will be manufactured.
 
 
-# Research Topics
+## **Agnostic to Feedstock - Responsive Manufacturing**
 
-<span style="font-size:1.5em">_Material developments ongoing for diagnostic applications:_</span>
-
-
-### Materials for Bacterial Infection Detection
-- Epitope imprinted polymers (artificial antibody)
+### Work Package 1:
+- Objective: To develop a sensing strategy to determine the nature of the feedstock (polymer type) and its properties, autonomously. 
 
 <!-- 
 <div class="container">
@@ -42,31 +38,25 @@ seeking to contribute to sustaining healthcare, democratising healthcare and tac
 </div>
  -->
 
-
 <br>
 
-
-### Materials for Early Cancer Detection 
--	Bioconjugation of biodegradable polymers for cancerous epitope detection
-
-<br>
-### Materials for Minimally Invasive Detection
--	Hydrogel microneedles development
--	Imprinted conductive nanoneedles
+### Work Package 2:
+-	Objective: To develop and produce the responsive eHD-3D units.
 
 <br>
-
-### Materials for Wound Dressings
--	Therapeutic composite fibres
--	De novo polypeptide fibres 
+### Work Package 3:
+-	Objective: To manufacture proof-of-concept bioscaffold products from sensed biocompatible plastics with the eHD-3D micro factory modules.
 
 <br>
 # Research Supported by:
 
-[EPSRC](https://gow.epsrc.ukri.org/NGBOViewPerson.aspx?PersonId=-748617)
+<hr>
 
-Royal Society
+<div class="row">
 
-Cancer Research UK
+<div class="col-md6">
 
-Abbott
+		<p> <a href="https://gow.epsrc.ukri.org/NGBOViewPerson.aspx?PersonId=-748617"> <img src="/img/epsrc.jpg" class="img-responsive" alt="EPSRC" /></a>  <a href="https://3dmetalprinting.co.uk"> <img src="/img/3dmp.jpg" class="img-responsive" alt="3D Metal Printing" /></a> <a href="https://www.ruh.nhs.uk"> <img src="/img/ruh.jpg" class="img-responsive" alt="Royal United Hospitals Bath" /></a> <br>
+
+
+<hr>

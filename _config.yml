@@ -3,24 +3,24 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-url: "https://materialsforhealthlab.org/"
+url: "https://biomed4point0.org/"
 baseurl: ""
 
 # --- Basic options --- #
 
 # Name of website
-title: Materials For Health Lab
+title: Manufacturing in Hospital - BioMed 4.0
 
 # Your name to show in the footer
-author: Materials for Health Lab
+author: BioMed Team
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Home: "index"
   Research: "research"
-  Members: "members"
-  Publications: "publications"
+  BioMed Team: "members"
+  Outputs: "publications"
   News: "news"
   Join Us!: "opportunities"
 #   Contact: "contacts"
@@ -47,9 +47,9 @@ navbar-links:
 social-network-links:
   email: "h.s.leese@bath.ac.uk"
   github: "materialsforhealthlab"
-  ORCID: "0000-0003-4523-3804"
-  google-scholar: "citations?user=Tr4O7XAAAAAJ&hl=en"
-  UoB: "hannah-leese"
+  #ORCID: "0000-0003-4523-3804"
+  #google-scholar: "citations?user=Tr4O7XAAAAAJ&hl=en"
+  #UoB: "hannah-leese"
   
 # linkedin: 
 #  rss: true
@@ -85,7 +85,7 @@ social-network-links:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "materialsforhealthlab.org"
+url-pretty: "biomed4point0.org"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Join Us!
-subtitle: Applications from highly motivated prospective postgraduate students and researchers welcome at any time.
+subtitle: 
 cover-img:
-  - '/img/25393-107.jpg': "Copyright © IDPS, University of Bath"
+  - '/img/branimir-balogovic-unsplash.jpg': "Photo by Branimir Balogović on Unsplash"
 share-description: Look here for all opportunities to join the lab along with useful links for funding.
 ---
 
@@ -13,8 +13,8 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 
 #### Postdoctoral Research Positions
 
-* [Research Associate in Chemical Engineering and Machine Learning (2 yr fixed term)](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=CF8417R) position - closing date 15th Nov 2021
- 
+* Check back soon for upcoming opportunities to join the team
+
 #### PhD Studentships
 
 * There are useful links below for potential funding routes.
