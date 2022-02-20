@@ -1,4 +1,4 @@
-## [Materials for Health Lab Website](https://materialsforhealthlab.org)
+## [BioMed 4.0 Website](https://materialsforhealthlab.org/biomed4point0/)
 
 ### What you need to know to edit the website...
 

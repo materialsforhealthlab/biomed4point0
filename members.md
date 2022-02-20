@@ -15,7 +15,7 @@ share-description: Find out more about the BioMed 4.0 Team!
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/Leese H 29668-0334_Dept photo_BW.jpg" class="img-responsive" alt="Dr Hannah Leese" /></a>
+		<img src="../img/Leese H 29668-0334_Dept photo_BW.jpg" class="img-responsive" alt="Dr Hannah Leese" /></a>
 	</div>
 	<div class="col-md-9">
 		<p> <a href="https://researchportal.bath.ac.uk/en/persons/hannah-leese"> Dr Hannah Leese  </a> <br>
@@ -29,7 +29,7 @@ share-description: Find out more about the BioMed 4.0 Team!
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/BCD.jpg" class="img-responsive" alt="Dr Bernardo Castro Dominguez" /></a>
+		<img src="../img/BCD.jpg" class="img-responsive" alt="Dr Bernardo Castro Dominguez" /></a>
 	</div>
 	<div class="col-md-9">
 		<p> <a href="https://researchportal.bath.ac.uk/en/persons/bernardo-castro-dominguez"> Dr Bernardo Castro Dominguez </a> <br>
@@ -44,7 +44,7 @@ Bernardo is a lecturer in Chemical Engineering and lead of the <a href="https://
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/UMH.jpg" class="img-responsive" alt="Dr Uriel Martinez Hernandez" /></a>
+		<img src="../img/UMH.jpg" class="img-responsive" alt="Dr Uriel Martinez Hernandez" /></a>
 	</div>
 	<div class="col-md-9">
 		<p> <a href="https://researchportal.bath.ac.uk/en/persons/uriel-martinez-hernandez"> Dr Uriel Martinez Hernandez </a> <br>
@@ -58,7 +58,7 @@ Uriel is a Lecturer in Robotics and Autonomous Systems at the Department of Elec
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/RG.jpg" class="img-responsive" alt="Prof Richie Gill" /></a>
+		<img src="../img/RG.jpg" class="img-responsive" alt="Prof Richie Gill" /></a>
 	</div>
 	<div class="col-md-9">
 		<p> <a href="https://researchportal.bath.ac.uk/en/persons/richie-gill"> Prof Richie Gill </a> <br>
@@ -72,7 +72,7 @@ Richie is Professor of Healthcare Engineering in the Department of Mechanical En
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/PW.jpg" class="img-responsive" alt="Prof Peter Wilson" /></a>
+		<img src="../img/PW.jpg" class="img-responsive" alt="Prof Peter Wilson" /></a>
 	</div>
 	<div class="col-md-9">
 		<p> <a href="https://researchportal.bath.ac.uk/en/persons/peter-wilson"> Prof Peter Wilson </a> <br>
@@ -86,7 +86,7 @@ Richie is Professor of Healthcare Engineering in the Department of Mechanical En
 <div class="row">
 
 <div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/AS.jpg" class="img-responsive" alt="Dr Arya Shabani" /></a>
+		<img src="../img/AS.jpg" class="img-responsive" alt="Dr Arya Shabani" /></a>
 	</div>
 	<div class="col-md-9">
 		<p> <a href="https://researchportal.bath.ac.uk/en/persons/arya-shabani"> Dr Arya Shabani </a> <br>
@@ -101,7 +101,7 @@ Richie is Professor of Healthcare Engineering in the Department of Mechanical En
 <div class="row">
 
 <div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/JF.jpg" class="img-responsive" alt="Dr Joseph Flynn" /></a>
+		<img src="../img/JF.jpg" class="img-responsive" alt="Dr Joseph Flynn" /></a>
 	</div>
 	<div class="col-md-9">
 		<p> <a href="https://researchportal.bath.ac.uk/en/persons/joseph-flynn"> Dr Joseph Flynn </a> <br>
@@ -114,7 +114,7 @@ Richie is Professor of Healthcare Engineering in the Department of Mechanical En
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/3dmp.jpg" class="img-responsive" alt="3D Metal Printing" /></a>
+		<img src="../img/3dmp.jpg" class="img-responsive" alt="3D Metal Printing" /></a>
 	</div>
 	<div class="col-md-9">
 		<p> <a href="https://3dmetalprinting.co.uk"> 3D Metal Printing </a> <br>
@@ -129,7 +129,7 @@ Richie is Professor of Healthcare Engineering in the Department of Mechanical En
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="/img/RUH.jpg" class="img-responsive" alt="Royal United Hospitals Bath" /></a>
+		<img src="../img/ruh.jpg" class="img-responsive" alt="Royal United Hospitals Bath" /></a>
 	</div>
 	<div class="col-md-9">
 		<p> <a> Royal United Hospitals Bath </a> <br>

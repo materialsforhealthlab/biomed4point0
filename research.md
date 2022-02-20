@@ -56,7 +56,7 @@ Manufacturing in Hospital: BioMed 4.0 aims to develop a novel responsive additiv
 
 <div class="col-md6">
 
-		<p> <a href="https://gow.epsrc.ukri.org/NGBOViewPerson.aspx?PersonId=-748617"> <img src="/img/epsrc.jpg" class="img-responsive" alt="EPSRC" /></a>  <a href="https://3dmetalprinting.co.uk"> <img src="/img/3dmp.jpg" class="img-responsive" alt="3D Metal Printing" /></a> <a href="https://www.ruh.nhs.uk"> <img src="/img/ruh.jpg" class="img-responsive" alt="Royal United Hospitals Bath" /></a> <br>
+		<p> <a href="https://gow.epsrc.ukri.org/NGBOViewPerson.aspx?PersonId=-748617"> <img src="../img/epsrc.jpg" class="img-responsive" alt="EPSRC" /></a>  <a href="https://3dmetalprinting.co.uk"> <img src="../img/3dmp.jpg" class="img-responsive" alt="3D Metal Printing" /></a> <a href="https://www.ruh.nhs.uk"> <img src="../img/ruh.jpg" class="img-responsive" alt="Royal United Hospitals Bath" /></a> <br>
 
 
 <hr>
