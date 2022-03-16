@@ -57,6 +57,34 @@ Uriel is a Lecturer in Robotics and Autonomous Systems at the Department of Elec
 <hr>
 
 <div class="row">
+
+<div class="col-md-3"><a class="thumb" href="#">
+		<img src="../img/AS.jpg" class="img-responsive" alt="Dr Arya Shabani" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> <a href="https://researchportal.bath.ac.uk/en/persons/arya-shabani"> Dr Arya Shabani </a> <br>
+		Post-Doctoral Research Associate <br>
+		<p style="color:black;font-size:16px;">Arya is a research associate in Centre for autonomous robotics at the University of Bath. In 2021, I was awarded with the PhD degree in robotics and automatic control by polytechnic university of Catalonia. I conducted my PhD research in the institute of robotics and industrial informatics where I was a doctoral researcher in KYNODIN project funded by Spanish council for scientific research (CSIC). Before starting my PhD, I was a researcher in Iran neural technology centre for about two years. I received my MSc in mechatronics from university of Tehran in 2016. I was a research member of sport medicine and mechatronics lab at university of Tehran. In 2008, I obtained my BEng in electrical engineering from Azad university of Tehran. My research interests cover diverse topics in the area of robotics and biomechatronics due to my experiences in various disciplines. Particularly I focus on human-integrated robotic systems, AI based neural interfaces, soft wearable devices, kinematics and design and interval-based analysis. I have designed, fabricated and rendered handful of robots mostly for research purposes and also developed plenty of packages for kinematics of industrial manipulators in C++ and ROS. </p>  
+		 </p>
+	</div>
+</div>
+<hr>
+
+<div class="row">
+
+<div class="col-md-3"><a class="thumb" href="#">
+		<img src="../img/JL.jpg" class="img-responsive" alt="Jasmine Lightfoot" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> <a href="https://researchportal.bath.ac.uk/en/persons/jasmine-lightfoot"> Jasmine Lightfoot </a> <br>
+		Research Associate <br>
+		<p style="color:black;font-size:16px;">Jasmine is a research associate in the Department of Chemical Engineering at the University of Bath, investigating the application of machine learning to polymer systems for inline characterisation and prediction of process parameters in electrohydrodynamic (EHD) printing technologies. Jasmine completed her undergraduate Master’s degree in Chemistry at the University of Sheffield, researching the use of microporous organic polymers for carbon capture and storage. Her MRes and PhD projects in the Centre for Sustainable Chemical Technologies at the University of Bath have focused on the experimental synthesis and 3D printing of novel bioderived polymers, and the prediction of material properties of sustainable polymer systems from computational simulation.  </p>  
+		 </p>
+	</div>
+</div>
+<hr>
+
+<div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
 		<img src="../img/RG.jpg" class="img-responsive" alt="Prof Richie Gill" /></a>
 	</div>
@@ -82,21 +110,6 @@ Richie is Professor of Healthcare Engineering in the Department of Mechanical En
 	</div>
 </div>
 <hr>
-
-<div class="row">
-
-<div class="col-md-3"><a class="thumb" href="#">
-		<img src="../img/AS.jpg" class="img-responsive" alt="Dr Arya Shabani" /></a>
-	</div>
-	<div class="col-md-9">
-		<p> <a href="https://researchportal.bath.ac.uk/en/persons/arya-shabani"> Dr Arya Shabani </a> <br>
-		Post-Doctoral Research Associate <br>
-		<p style="color:black;font-size:16px;">Arya is a research associate in Centre for autonomous robotics at the University of Bath. In 2021, I was awarded with the PhD degree in robotics and automatic control by polytechnic university of Catalonia. I conducted my PhD research in the institute of robotics and industrial informatics where I was a doctoral researcher in KYNODIN project funded by Spanish council for scientific research (CSIC). Before starting my PhD, I was a researcher in Iran neural technology centre for about two years. I received my MSc in mechatronics from university of Tehran in 2016. I was a research member of sport medicine and mechatronics lab at university of Tehran. In 2008, I obtained my BEng in electrical engineering from Azad university of Tehran. My research interests cover diverse topics in the area of robotics and biomechatronics due to my experiences in various disciplines. Particularly I focus on human-integrated robotic systems, AI based neural interfaces, soft wearable devices, kinematics and design and interval-based analysis. I have designed, fabricated and rendered handful of robots mostly for research purposes and also developed plenty of packages for kinematics of industrial manipulators in C++ and ROS. </p>  
-		 </p>
-	</div>
-</div>
-<hr>
-
 
 <div class="row">
 
