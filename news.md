@@ -8,6 +8,8 @@ share-description: Latest news from the Materials for Health Lab!
   
 ---
 
+* **Mar 2022:** We are very happy to welcome [Jasmine](https://researchportal.bath.ac.uk/en/persons/jasmine-lightfoot) to the BioMed team! Jasmine will be developing machine learning tools for the inline prediction of process parameters for EHD printing technologies.
+
 * **Feb 2022:** BioMed 4.0 Website Launch!
 
 * **Jan 2022:** BioMed 4.0 Kick-off Project Meeting with all project partners.
