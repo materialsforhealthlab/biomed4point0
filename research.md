@@ -55,7 +55,7 @@ Manufacturing in Hospital: BioMed 4.0 aims to develop a novel responsive additiv
 
 <div class="row">
   <div class="col-md-4">
-    <a href="https://gow.epsrc.ukri.org/NGBOViewPerson.aspx?PersonId=-748617"> <img src="../img/epsrc.jpg" class="img-responsive" alt="EPSRC" /></a> 
+    <a href="https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V051083/1"> <img src="../img/epsrc.jpg" class="img-responsive" alt="EPSRC" /></a> 
   </div>
   <div class="col-md-4">
     <a href="https://3dmetalprinting.co.uk"> <img src="../img/3dmp.jpg" class="img-responsive" alt="3D Metal Printing" /></a> 
