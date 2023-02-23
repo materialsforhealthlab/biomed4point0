@@ -73,12 +73,26 @@ Uriel is a Lecturer in Robotics and Autonomous Systems at the Department of Elec
 <div class="row">
 
 <div class="col-md-3"><a class="thumb" href="#">
-		<img src="../img/JL.jpg" class="img-responsive" alt="Jasmine Lightfoot" /></a>
+		<img src="../img/JL.jpg" class="img-responsive" alt="Dr Jasmine Lightfoot" /></a>
 	</div>
 	<div class="col-md-9">
-		<p> <a href="https://researchportal.bath.ac.uk/en/persons/jasmine-lightfoot"> Jasmine Lightfoot </a> <br>
+		<p> <a href="https://researchportal.bath.ac.uk/en/persons/jasmine-lightfoot"> Dr Jasmine Lightfoot </a> <br>
 		Research Associate <br>
 		<p style="color:black;font-size:16px;">Jasmine is a research associate in the Department of Chemical Engineering at the University of Bath, investigating the application of machine learning to polymer systems for inline characterisation and prediction of process parameters in electrohydrodynamic (EHD) printing technologies. Jasmine completed her undergraduate Master’s degree in Chemistry at the University of Sheffield, researching the use of microporous organic polymers for carbon capture and storage. Her MRes and PhD projects in the Centre for Sustainable Chemical Technologies at the University of Bath have focused on the experimental synthesis and 3D printing of novel bioderived polymers, and the prediction of material properties of sustainable polymer systems from computational simulation.  </p>  
+		 </p>
+	</div>
+</div>
+<hr>
+
+<div class="row">
+
+<div class="col-md-3"><a class="thumb" href="#">
+		<img src="../img/NB.jpg" class="img-responsive" alt="Dr Nael Berri" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> <a href="https://researchportal.bath.ac.uk/en/persons/nael-berri"> Dr Nael Berri </a> <br>
+		Research Associate <br>
+		<p style="color:black;font-size:16px;">Nael is a post-doctoral research associate in the department of Chemical Engineering at the University of Bath. He will be investigating the use of eHD-3D novel technology to manufacture tissue scaffold products. Before joining Bath, he held a post-doc position at the Institute of Molecular Chemistry and Materials of Orsay at the Paris-Saclay University (project funded by the IAEA).  He completed his MSc in biomaterial and tissue engineering and PhD in mechanical engineering at University College London (UCL). Nael is interested in the development of novel processing technologies for handling a wide range of materials that can be used for the development of tissue engineering scaffolds and/or biocoatings. </p>  
 		 </p>
 	</div>
 </div>
@@ -109,20 +123,7 @@ Richie is Professor of Healthcare Engineering in the Department of Mechanical En
 		 </p>
 	</div>
 </div>
-<hr>
 
-<div class="row">
-
-<div class="col-md-3"><a class="thumb" href="#">
-		<img src="../img/JF.jpg" class="img-responsive" alt="Dr Joseph Flynn" /></a>
-	</div>
-	<div class="col-md-9">
-		<p> <a href="https://researchportal.bath.ac.uk/en/persons/joseph-flynn"> Dr Joseph Flynn </a> <br>
-		Project Co-investigator <br>
-		<p style="color:black;font-size:16px;">Joseph is a lecturer in the Department of Mechanical Engineering, he is also a co-founder and Director of Gen3D Ltd. Joseph's research interests span the additive manufacturing process chain, from component design to manufacturing technologies. His commercial interests focus on the creation of complex and hierarchical detail in engineering components.  </p>  
-		 </p>
-	</div>
-</div>
 <hr>
 
 <div class="row">
