@@ -3,7 +3,7 @@ layout: page
 title: BioMed Team
 subtitle: Find out more about the BioMed 4.0 Team!
 cover-img:
-  - '/img/grpphoto.jpg': "Group Photo Dec 2021"
+  - '/img/LIGHTFOOT.jpg': "Artwork by Dr Jasmine Lightfoot"
 share-description: Find out more about the BioMed 4.0 Team!
 ---
 
