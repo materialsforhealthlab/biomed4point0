@@ -13,7 +13,7 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 
 #### Postdoctoral Research Positions
 
-* Check back soon for upcoming opportunities to join the team
+* Watch this space - check back soon for upcoming opportunities to join the team
 
 #### PhD Studentships
 

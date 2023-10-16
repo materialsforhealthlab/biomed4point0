@@ -59,7 +59,7 @@ Uriel is a Lecturer in Robotics and Autonomous Systems at the Department of Elec
 <div class="row">
 
 <div class="col-md-3"><a class="thumb" href="#">
-		<img src="../img/AS.jpg" class="img-responsive" alt="Dr Arya Shabani" /></a>
+		<img src="../img/AS_.jpg" class="img-responsive" alt="Dr Arya Shabani" /></a>
 	</div>
 	<div class="col-md-9">
 		<p> <a href="https://researchportal.bath.ac.uk/en/persons/arya-shabani"> Dr Arya Shabani </a> <br>
@@ -114,12 +114,26 @@ Richie is Professor of Healthcare Engineering in the Department of Mechanical En
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="../img/PW.jpg" class="img-responsive" alt="Prof Peter Wilson" /></a>
+		<img src="../img/AS.jpg" class="img-responsive" alt="Dr Sandhya Moise" /></a>
 	</div>
 	<div class="col-md-9">
-		<p> <a href="https://researchportal.bath.ac.uk/en/persons/peter-wilson"> Prof Peter Wilson </a> <br>
+		<p> <a href="https://researchportal.bath.ac.uk/en/persons/sandhya-moise"> Dr Sandhya Moise </a> <br>
 		Project Co-investigator <br>
-		<p style="color:black;font-size:16px;">Peter Wilson is Professor of Electronics and Systems Engineering in the Department of Electronic and Electrical Engineering. He received his BEng from Heriot-Watt University, MBA from Edinburgh Business School and PhD from the University of Southampton, and has industrial experience at Ferranti, GEC-Marconi, Analogy, Inc. prior to taking up his previous academic post of Associate Professor at Southampton in the School of Electronics and Computer Science. He is a Fellow of the IET, Senior Member of the IEEE, and is currently serving as Executive Vice President of the IEEE Power Electronics Society. He has been the Technical and General Chair of the IEEE Workshop on Behavioral Modelling and Simulation, and also held numerous leadership positions at conferences including ETS, EBTW and FDL. Peter has published more than 150 academic papers, three books and a patent, and has been principal investigator on numerous EPSRC grants. He is the supervior of the Team Bath Racing Electric (TBRe) formula student electric racing team at Bath, co-supervisor of the Bath Zero Emissions Motorcycle racing team, and leads postgraduate teaching developments in the Department of Electronic and Electrical Engineering. </p>  
+		<p style="color:black;font-size:16px;">Sandhya Moise is Assistant Professor in the Chemical Engineering Department, University of Bath. Sandhya's expertise include developing economically efficient scale-up systems for cell therapy manufacturing. Sandhya designs and compares different bioreactor configurations for the culture and manufacturing of cell and cell-derived. products</p>  
+		 </p>
+	</div>
+</div>
+
+<hr>
+
+<div class="row">
+	<div class="col-md-3"><a class="thumb" href="#">
+		<img src="../img/photo_gorkem.jpg" class="img-responsive" alt="Gorkem Anil Al" /></a>
+	</div>
+	<div class="col-md-9">
+		<p> <a href="https://researchportal.bath.ac.uk/en/persons/gorkem-anil-al"> Gorkem Anil Al </a> <br>
+		Project Co-investigator <br>
+		<p style="color:black;font-size:16px;">Gorkem is a PhD student in the Department of Electronic and Electrical Engineering, and the Centre for Autonomous Robotics (CENTAUR), the University of Bath, and the member of the inte-R-action Lab. During his PhD, he has worked on the development of a multimodal sensing module composed of distance, gesture and a custom-made tactile sensor, and employed the module controlling an industrial robot arm for a human-robot collaboration scenario. He received his MSc degree in Robotics from the University of Bristol, and Bristol Robotics Lab in 2017. His research interests include wearable devices, haptic technologies, robot sensing and perception, machine learning methods and human- robot interaction. </p>  
 		 </p>
 	</div>
 </div>
