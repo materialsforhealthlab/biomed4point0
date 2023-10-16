@@ -3,20 +3,26 @@ layout: page
 title: Outputs
 subtitle: Find out about our published work...
 cover-img:
-  - '/img/tom-claes-unsplash.jpg': "Photo by Tom Claes on Unsplash"
-share-description: Read the lastest published work of the Materials for Health Lab.
+  - '/img/LIGHTFOOT.jpg': "Artwork by Dr Jasmine Lightfoot"
+share-description: Read the lastest published and outputs from the BioMed 4.0 Team.
 ---
 
-**Journal Articles**
+**Outputs**
 
-**2021**
+**2023**
 
-E. Daniels, Y. Mustafa, C. Herdes, H. Leese, "[Optimization of Cortisol-Selective Molecularly Imprinted Polymers Enabled by Molecular Dynamics Simulations](https://pubs.acs.org/doi/pdf/10.1021/acsabm.1c00774)" ACS Applied Bio Materials, 2021, doi.org/10.1021/acsabm.1c00774
+- Patent application GB2314965.1 Multi-Mode 3D Printing - filed Sept 2023
 
-H. Jayakody, G. Kiddle, S. Perera, L. Tisi, H. Leese, "[Molecular Diagnostics in the Era of COVID-19](https://pubs.rsc.org/en/content/articlepdf/2021/AY/D1AY00947H)" Analytical Methods, 2021, Advance Article, https://doi.org/10.1039/D1AY00947H
+- Shabani A, Martinez-Hernandez U. (2023). In-Situ Measurement of Extrusion Width for Fused Filament Fabrication Process Using Vision and Machine Learning Models.
 
-H. Leese, M. Durailingam, T. Roffe, R. Atri "[Graphene Oxide Composite Fibres for Therapeutic Fabrics](https://iopscience.iop.org/article/10.1088/2515-7639/ac114c)" Journal of Physics: Materials, 2021, doi.org/10.1088/2515-7639/ac114c
+- Martinez-Hernandez U, Assaf T, (2023). [Soft Tactile Sensor With Multimodal Data Processing for Texture Recognition](https://ieeexplore.ieee.org/document/10198524). IEEE Sensors Letters.
 
-S. Hongthong, H. Leese,  M. Allen, C. Chuck "[Assessing the Conversion of Various Nylon Polymers in the Hydrothermal Liquefaction of Macroalgae](https://www.mdpi.com/2076-3298/8/4/34)" Environments, 2021, 8, 4, 34
+- Lightfoot J, Castro-Dominguez B, Buchard A, Parker S. (2023). [A molecular dynamics approach to modelling oxygen diffusion in PLA and PLA clay nanocomposites](https://pubs.rsc.org/en/content/articlelanding/2023/ma/d3ma00158j). Materials Advances.
 
-J. Turner  L. White, P. Estrela,  H. Leese "[Hydrogel‐Forming Microneedles: Current Advancements and Future Trends](https://onlinelibrary.wiley.com/doi/10.1002/mabi.202000307)" Macromolecular Bioscience, 2021, 21, 2, 2000307
+- Turner J, Lay E, Jungwirth U, Varenko V, Gill H, Estrela P, Leese H. (2023). [3D‐Printed Hollow Microneedle‐Lateral Flow Devices for Rapid Blood‐Free Detection of C‐Reactive Protein and Procalcitonin](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202300259). Advanced Materials Technologies.
+
+- Alkandari SH, Lightfoot J, Castro-Dominguez B. (2023). [Asymmetric membranes for gas separation: interfacial insights and manufacturing](https://pubs.rsc.org/en/content/articlehtml/2023/ra/d3ra00995e). RSC advances, 13 (21), pp. 14198-14209
+
+
+
+
