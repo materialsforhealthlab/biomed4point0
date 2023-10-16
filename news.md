@@ -7,12 +7,15 @@ cover-img:
 share-description: Latest news from the Materials for Health Lab!
   
 ---
+* **Oct 2023** The team visit the University of Strathclyde, Glasgow for the EPSRC Responsive Manufacturing Showcase, 2023.
+
+* **April 2023:** Welcome Dr Sandhya Moise to the BioMed project, working together in the tissue engineering aspects of the project.
 
 * **March 8th 2023:** **Happy International Women's Day** [#EmbraceEquity](https://www.internationalwomensday.com)
 
 * **Feb 2023:** We are very happy to welcome [Dr Nael Berri](https://researchportal.bath.ac.uk/en/persons/nael-berri) to the BioMed team! Nael will be developing the tissue scaffold with the EHD/printing technologies.
 
-* **Mar 2022:** We are very happy to welcome [Dr Jasmine Lightfood](https://researchportal.bath.ac.uk/en/persons/jasmine-lightfoot) to the BioMed team! Jasmine will be developing machine learning tools for the inline prediction of process parameters for EHD printing technologies.
+* **Mar 2022:** We are very happy to welcome [Dr Jasmine Lightfoot](https://researchportal.bath.ac.uk/en/persons/jasmine-lightfoot) to the BioMed team! Jasmine will be developing machine learning tools for the inline prediction of process parameters for EHD printing technologies.
 
 * **Feb 2022:** BioMed 4.0 Website Launch!
 
