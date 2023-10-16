@@ -3,7 +3,7 @@ layout: page
 title: BioMed Team
 subtitle: Find out more about the BioMed 4.0 Team!
 cover-img:
-  - '/img/LIGHTFOOT.jpg': "Artwork by Dr Jasmine Lightfoot"
+  - '/img/biomed_2023.jpg': "EPSRC Responsive Manufacturing Showcase 2023 "
 share-description: Find out more about the BioMed 4.0 Team!
 ---
 
