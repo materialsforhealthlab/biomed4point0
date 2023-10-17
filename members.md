@@ -132,7 +132,7 @@ Richie is Professor of Healthcare Engineering in the Department of Mechanical En
 	</div>
 	<div class="col-md-9">
 		<p> <a href="https://researchportal.bath.ac.uk/en/persons/gorkem-anil-al"> Gorkem Anil Al </a> <br>
-		Project Co-investigator <br>
+		Research Assistant <br>
 		<p style="color:black;font-size:16px;">Gorkem is a PhD student in the Department of Electronic and Electrical Engineering, and the Centre for Autonomous Robotics (CENTAUR), the University of Bath, and the member of the inte-R-action Lab. During his PhD, he has worked on the development of a multimodal sensing module composed of distance, gesture and a custom-made tactile sensor, and employed the module controlling an industrial robot arm for a human-robot collaboration scenario. He received his MSc degree in Robotics from the University of Bristol, and Bristol Robotics Lab in 2017. His research interests include wearable devices, haptic technologies, robot sensing and perception, machine learning methods and human- robot interaction. </p>  
 		 </p>
 	</div>
