@@ -114,12 +114,12 @@ Richie is Professor of Healthcare Engineering in the Department of Mechanical En
 
 <div class="row">
 	<div class="col-md-3"><a class="thumb" href="#">
-		<img src="../img/AS.jpg" class="img-responsive" alt="Dr Sandhya Moise" /></a>
+		<img src="../img/SM.jpg" class="img-responsive" alt="Dr Sandhya Moise" /></a>
 	</div>
 	<div class="col-md-9">
 		<p> <a href="https://researchportal.bath.ac.uk/en/persons/sandhya-moise"> Dr Sandhya Moise </a> <br>
 		Project Co-investigator <br>
-		<p style="color:black;font-size:16px;">Sandhya Moise is Assistant Professor in the Chemical Engineering Department, University of Bath. Sandhya's expertise include developing economically efficient scale-up systems for cell therapy manufacturing. Sandhya designs and compares different bioreactor configurations for the culture and manufacturing of cell and cell-derived. products</p>  
+		<p style="color:black;font-size:16px;">Sandhya is a lecturer in Chemical Engineering. A Cell and Tissue engineer by training, Sandhya's current research focus is on  developing economically efficient bioprocess technologies for therapeutics manufacturing and on using exosomal biomarkers for early cancer detection.</p>  
 		 </p>
 	</div>
 </div>
