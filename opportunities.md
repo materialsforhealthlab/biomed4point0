@@ -13,7 +13,7 @@ Keep up to date here with current open positions in the lab for postdoctoral res
 
 #### Postdoctoral Research Positions
 
-* Watch this space - check back soon for upcoming opportunities to join the team
+* We have a position to join the BioMed team as a [Research Associate in Intelligent Additive Manufacturing and Sensing Technologies (Fixed Term)](https://www.bath.ac.uk/jobs/Vacancy.aspx?ref=FM11107), closing date 2nd Nov 2023, feel free to contact Bernardo or Hannah, apply now!  
 
 #### PhD Studentships
 
